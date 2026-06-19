@@ -25,5 +25,5 @@
 | [**NeuroMove**](https://github.com/Capstone-EMG-3P1L/NeuroMove_backend) | EMG 신호 기반 이동 의도 인식 및 모터 제어 시스템 | Backend, Embedded, Realtime Control | Spring Boot, Redis, MySQL, WebSocket, ESP32, Docker |
 | [**SceneFlow**](https://github.com/New-Learn33/Back) | AI 영상 생성 API를 활용한 콘텐츠 생성 플랫폼 | Backend, AI API Integration | FastAPI, Python, AI API |
 | [**TeamFlow**](https://github.com/pirogramming/TeamFlow) | 대학생들을 위한 팀 프로젝트 관리 서비스 | Backend, Deployment | Django, MySQL, Nginx, Naver Cloud |
-| [**SeolStudy**](https://github.com/blaybus-runtime/backend) | 멘토링 기반 학습 관리 플랫폼 | Backend | Spring Boot, MySQL, Docker, Cloudflare R2 |
+| [**SeolStudy**](https://github.com/blaybus-runtime/backend) | 멘토링 기반 학습 관리 플랫폼 | Backend, Deployment | Spring Boot, MySQL, Docker, Cloudflare R2 |
 | [**MIXSAFE**](https://github.com/CSID-DGU/2025-2-DES4015-Nemo-01) | AI 기반 화학 제품 혼합 안전도 검증 서비스 | API Integration, Data Handling | Naver Cloud OCR API, MySQL |
