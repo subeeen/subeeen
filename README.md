@@ -1,69 +1,29 @@
-<br>
+# 박수빈 | Backend Developer
 
-<!-- TECH STACK -->
-<h3 align="center">✨ Tech Stack ✨</h3>
+동국대학교 정보통신공학과에 재학 중이며, 백엔드 개발 경험을 쌓고 있습니다.  
+실시간 통신, AI API 연동, 디바이스 제어 경험을 바탕으로 서비스 흐름과 예외 상황을 함께 고려하는 개발자를 지향합니다.
 
-<div align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
-</div>
+<br/>
 
-<div align="center">
-  <!-- DB / Cache -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp
-</div>
+## Tech Stacks
 
+| Category | Stack |
+|---|---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Infra / DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) |
+| **Realtime / Embedded** | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) |
+| **AI / API** | ![Naver OCR](https://img.shields.io/badge/Naver_OCR-03C75A?style=flat-square&logo=naver&logoColor=white) ![AI API](https://img.shields.io/badge/AI_API-000000?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-<br>
+<br/>
 
-<!-- STUDYING -->
-<h3 align="center">📚 Studying 📚</h3>
+## Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/CI%2FCD-000000.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
-</div>
-
-
-<br>
-
-<!-- TOOLS -->
-<h3 align="center">🛠 Tools 🛠</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FF69B4.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
-</div>
-
-<br>
-
-<!-- CONTACT -->
-<h3 align="center">📫 Contact 📫</h3>
-
-<div align="center">
-  <a href="https://subeeen.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
-  </a>&nbsp
-  <a href="mailto:qkrtnqls5676@gmail.com">
-    <img src="https://img.shields.io/badge/qkrtnqls5676@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<br>
+| Project | Description | Role | Tech Stack |
+|---|---|---|---|
+| [**NeuroMove**](https://github.com/Capstone-EMG-3P1L/NeuroMove_backend) | EMG 신호 기반 이동 의도 인식 및 모터 제어 시스템 | Backend, Embedded, Realtime Control | Spring Boot, Redis, MySQL, WebSocket, ESP32, Docker |
+| [**SceneFlow**](https://github.com/New-Learn33/Back) | AI 영상 생성 API를 활용한 콘텐츠 생성 플랫폼 | Backend, AI API Integration | FastAPI, Python, AI API |
+| [**TeamFlow**](https://github.com/pirogramming/TeamFlow) | 대학생들을 위한 팀 프로젝트 관리 서비스 | Backend, Deployment | Django, MySQL, Nginx, Naver Cloud |
+| [**SeolStudy**](https://github.com/blaybus-runtime/backend) | 멘토링 기반 학습 관리 플랫폼 | Backend | Spring Boot, MySQL, Docker, Cloudflare R2 |
+| [**MIXSAFE**](https://github.com/CSID-DGU/2025-2-DES4015-Nemo-01) | AI 기반 화학 제품 혼합 안전도 검증 서비스 | API Integration, Data Handling | Naver Cloud OCR API, MySQL |
