@@ -5,7 +5,7 @@
 
 <br/>
 
-## Tech Stacks
+## Tech Stack
 
 | Category | Stack |
 |---|---|
